@@ -10,6 +10,7 @@ There are three columns inside Excel files:
 
 ## How to Cite:
 *will be added later*
+2025. Putra Pandu Adikara, Randy Cahya Wihandika, Indriati, Rizal Setya Perdana, M. Ali Fauzi, and Tutut Herawan. AdSubCleaner: A Framework for Detecting and Removing Improper Advertisement in Subtitles with Highly Imbalanced Dataset.
 
 ## Original work:
-2022. Putra Pandu Adikara, Indriati, Randy Cahya Wihandika. Faculty of Computer Science, Universitas Brawijaya.
+Putra Pandu Adikara, Randy Cahya Wihandika, Indriati. Faculty of Computer Science, Universitas Brawijaya.
